@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SMS Receiver.iml" filepath="$PROJECT_DIR$/SMS Receiver.iml" group="SMS Receiver" />
+      <module fileurl="file://$PROJECT_DIR$/smsplugin/smsplugin.iml" filepath="$PROJECT_DIR$/smsplugin/smsplugin.iml" group="SMS Receiver/smsplugin" />
+    </modules>
+  </component>
+</project>

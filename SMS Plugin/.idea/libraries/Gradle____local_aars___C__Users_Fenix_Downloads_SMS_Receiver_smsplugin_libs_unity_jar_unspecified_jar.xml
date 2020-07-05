@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C./Users/Fenix/Downloads/SMS Receiver/smsplugin/libs/unity.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/smsplugin/libs/unity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
